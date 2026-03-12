@@ -1,11 +1,14 @@
 ---
-title: "FMSRdiff : Efficient latent diffusion framework combining consistency model and flow matching for super-resolution"
+title: "Paper Title Number 1"
 collection: publications
 category: manuscripts
 permalink: /publication/2009-10-01-paper-title-number-1
-date: 2025
-venue: '10th International Conference on Integrated Circuits and Microsystems (ICICM)'
-paperurl: '[https://academicpages.github.io/files/slides1.pdf](https://ieeexplore.ieee.org/document/11316051)''
-citation: 'Peng, Qun Kai , et al. "FMSRdiff: Efficient latent diffusion framework combining consistency model and flow matching for super-resolution." #i{2025 10th International Conference on Integrated Circuits and Microsystems (ICICM)} 0.'
+excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
+date: 2009-10-01
+venue: 'Journal 1'
+slidesurl: 'https://academicpages.github.io/files/slides1.pdf'
+paperurl: 'https://academicpages.github.io/files/paper1.pdf'
+bibtexurl: 'https://academicpages.github.io/files/bibtex1.bib'
+citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
 ---
 We propose FMSRdiff, an efficient latent diffusion framework that integrates consistency models with optical flow matching.(ICICM 2025 Oral & Best Paper).
