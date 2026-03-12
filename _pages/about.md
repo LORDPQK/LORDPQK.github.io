@@ -26,12 +26,12 @@ My name is **Qunkai Peng**. I am currently pursuing research in multimodal large
 - **Wuhan University of Technology** — School of Artificial Intelligence
 - **Research Focus:** High-performance software architecture
 
----
+
 
 ## Work Experience
 <!-- - 2024 **XVerse** Graphics and Image Algorithm Intern, Image Algorithm Department -->
 <!-- - 2025 ～ now **DJI** Algorithm Engineer, Large Model Team-->
----
+
 
 ## Research Interests
 
